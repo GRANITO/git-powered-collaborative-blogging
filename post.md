@@ -192,7 +192,7 @@ Editing is a particularly time and energy intensive step in publishing. The last
 **2.2.2 Extend content life time and relevance** 
 
 We've covered how software moves exceptionally quick. The unfortunate byproduct
-is, software content decays exceptionally fast too. Often the principals of a
+is, software content decays exceptionally fast too. Often the principles ofa 
 piece remain relevant, but as new framework versions emerge, it becomes unclear
 if the content is still useful. Maintaining content against moving code bases
 has never really been possible as an individual and is an unwieldy endeavour
